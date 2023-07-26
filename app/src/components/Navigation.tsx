@@ -1,12 +1,10 @@
 import './stylesheet/Navigation.css';
+import logo from './assets/images/logo.svg'
 
 const Navigation = () => {
-
-  const logo = // TODO: insert image location
-
   return (
     <div className="Navigation">
-      <div className="Logo">{logo}</div>
+      <img className="Logo" src={logo} alt="logo" />
       <div className="NavigationBar">
         <div className="NavLink">Home</div>
         <div className="NavLink">New</div>

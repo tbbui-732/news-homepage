@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import Navigation from './components/Navigation';
+
 /*
 Navigation:
   Logo 
@@ -29,13 +31,11 @@ function App() {
   return (
     <div className="App">
       <div className="Navigation">
+        <Navigation />
       </div>
-      <div className="MainHeading">
-      </div>
-      <div className="SideSubHeading">
-      </div>
-      <div className="BottomSubHeading">
-      </div>
+      <div className="MainHeading"></div>
+      <div className="SideSubHeading"></div>
+      <div className="BottomSubHeading"></div>
     </div>
   );
 }
