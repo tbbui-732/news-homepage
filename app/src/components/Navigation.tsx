@@ -6,11 +6,11 @@ const Navigation = () => {
     <div className="Navigation">
       <img className="Logo" src={logo} alt="logo" />
       <div className="NavigationBar">
-        <div className="NavLink">Home</div>
-        <div className="NavLink">New</div>
-        <div className="NavLink">Popular</div>
-        <div className="NavLink">Trending</div>
-        <div className="NavLink">Categories</div>
+        <a href="#" className="NavLink">Home</a>
+        <a href="#" className="NavLink">New</a>
+        <a href="#" className="NavLink">Popular</a>
+        <a href="#" className="NavLink">Trending</a>
+        <a href="#" className="NavLink">Categories</a>
       </div>
     </div>
   );

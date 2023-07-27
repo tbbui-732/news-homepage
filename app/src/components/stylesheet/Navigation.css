@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.Navigation {
+  display: flex;
+  flex-direction: row;
+  gap: 600px;
+  align-items: center;
+  align-content: center;
+}
+
+.Logo {
+  width: 80px;
+  height: 80px;
+}
+
+.NavigationBar {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+
+  width: 450px;
+}
+
+.NavLink {
+  font-family: 'Inter', sans-serif;
+  font: 15px;
+
+  text-decoration: none;
+  color: hsl(236, 13%, 42%); /* dark grayish blue */
+}
