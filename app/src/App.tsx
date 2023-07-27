@@ -5,6 +5,7 @@ import './App.css';
 import Navigation from "./components/Navigation";
 import MainHeading from "./components/MainHeading";
 import SideSubHeading from './components/SideSubHeading';
+import BottomSubHeading from './components/BottomSubHeading';
 
 /*
 Navigation:
@@ -29,14 +30,14 @@ BottomSubHeading
   Number + Title + Paragraph
 */
 
-      // <div className="Navigation">
-      //   <Navigation />
-      // </div>
-      // <div className="MainHeading">
-      //   <MainHeading />
-      // </div>
-      // <div className="SideSubHeading"></div>
-      // <div className="BottomSubHeading"></div>
+// <div className="Navigation">
+//   <Navigation />
+// </div>
+// <div className="MainHeading">
+//   <MainHeading />
+// </div>
+// <div className="SideSubHeading"></div>
+// <div className="BottomSubHeading"></div>
 
 function App() {
   return (
@@ -51,7 +52,7 @@ function App() {
       </div>
 
       <div className="Bottom">
-
+        <BottomSubHeading />
       </div>
     </div>
   );
