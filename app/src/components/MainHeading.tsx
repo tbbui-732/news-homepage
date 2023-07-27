@@ -14,7 +14,10 @@ const MainHeading = () => {
     <div className="MainHeading">
       <img className="HeadingImage" src={headingImage} alt="image-web-3-desktop" />
       <div className="HeadingTitle">{title}</div>
-      <div className="HeadingReadMore">{readmore}</div>
+      <div className="HeadingReadMore">
+        <div className="ReadMoreParagraph">{readmore}</div>
+        <button className="ReadMoreButton">read more</button>
+      </div>
     </div>
   )
 };
