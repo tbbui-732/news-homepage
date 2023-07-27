@@ -17,7 +17,7 @@
   /* height: 300px; */
 }
 
-.Bottom {
+.MainHeadingBottom {
   display: flex;
   flex-direction: row;
   gap: 60px;

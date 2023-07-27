@@ -15,7 +15,7 @@ const MainHeading = () => {
       <div className="Top">
         <img className="HeadingImage" src={headingImage} alt="image-web-3-desktop" />
       </div>
-      <div className="Bottom">
+      <div className="MainHeadingBottom">
         <div className="HeadingTitle">{title}</div>
         <div className="HeadingReadMore">
           <div className="ReadMoreParagraph">{readmore}</div>
