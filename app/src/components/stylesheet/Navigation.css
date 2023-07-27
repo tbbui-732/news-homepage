@@ -3,9 +3,9 @@
 .Navigation {
   display: flex;
   flex-direction: row;
-  gap: 600px;
   align-items: center;
   align-content: center;
+  justify-content: space-between;
 }
 
 .Logo {
