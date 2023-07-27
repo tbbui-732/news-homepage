@@ -1,29 +1,80 @@
+/*
+
+COLOR PALETTE
+
+# Primary
+Soft orange: 
+  hsl(35, 77%, 62%)
+
+Soft red: 
+  hsl(5, 85%, 63%)
+
+
+
+# Neutral
+Off-white: 
+  hsl(36, 100%, 99%)
+
+Grayish blue: 
+  hsl(233, 8%, 79%)
+
+Dark grayish blue: 
+  hsl(236, 13%, 42%)
+
+Very dark blue: 
+  hsl(240, 100%, 5%)
+
+*/
+
+/*** MAIN ***/
 .BottomSubHeading {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
 }
 
+/*** SUB COMPONENT ***/
 .Article {
-
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
 }
 
+/* LEFT SIDE */
 .ArticleLeftSide {
 
 }
 
-.ArticleRightSide {
+.ArticleImage {
+  width: 100px;
+  /* height: 130px; */
+  height: auto;
+}
 
+/* RIGHT SIDE */
+.ArticleRightSide {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
 .ArticleNumber {
-
+  font-size: 40px;
+  font-weight: bolder;
+  color: hsl(233, 8%, 79%);
 }
 
 .ArticleTitle {
-
+  font-size: 20px;
+  font-weight: bold;
+  color: hsl(240, 100%, 5%);
 }
 
-
 .ArticleDescription {
-
+  width: 230px;
+  height: 43px;
+  color: hsl(236, 13%, 42%);
+  font-size: 18px;
+  font-weight: 300;
 }
