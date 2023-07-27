@@ -28,17 +28,20 @@ BottomSubHeading
   Number + Title + Paragraph
 */
 
+      // <div className="Navigation">
+      //   <Navigation />
+      // </div>
+      // <div className="MainHeading">
+      //   <MainHeading />
+      // </div>
+      // <div className="SideSubHeading"></div>
+      // <div className="BottomSubHeading"></div>
+
 function App() {
   return (
     <div className="App">
-      <div className="Navigation">
-        <Navigation />
-      </div>
-      <div className="MainHeading">
-        <MainHeading />
-      </div>
-      <div className="SideSubHeading"></div>
-      <div className="BottomSubHeading"></div>
+      <Navigation />
+      <MainHeading />
     </div>
   );
 }
