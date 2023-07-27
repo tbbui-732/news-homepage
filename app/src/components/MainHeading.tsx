@@ -12,7 +12,9 @@ const MainHeading = () => {
 
   return (
     <div className="MainHeading">
-      <img className="HeadingImage" src={headingImage} alt="image-web-3-desktop" />
+      <div className="Top">
+        <img className="HeadingImage" src={headingImage} alt="image-web-3-desktop" />
+      </div>
       <div className="Bottom">
         <div className="HeadingTitle">{title}</div>
         <div className="HeadingReadMore">

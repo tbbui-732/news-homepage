@@ -3,19 +3,21 @@
   flex-direction: column;
   justify-content: space-between;
   align-content: center;
+  width: 69rem;
 }
 
 .Top {
-
+  width: 100%;
 }
 
 .Middle {
   display: flex;
   flex-direction: row;
   gap: 30px;
-  min-height: 33.938rem;
+  height: 34rem;
+  width: 100%;
 }
 
 .Bottom {
-
+  width: 100%;
 }

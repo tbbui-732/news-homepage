@@ -1,14 +1,20 @@
 .SideSubHeading {
   display: flex;
   flex-direction: column;
-  min-width: 320px;
-  min-height: 33.938rem;
+  gap: 30px;
+
+  width: 100%;
 
   background-color: hsl(240, 100%, 5%); /* very dark blue */
+
+  /* padding: top right bottom left; */
+  padding: 37px 28px 37px 28px;
 }
 
 .Title {
-  color: white;
+  color: hsl(35, 77%, 62%);
+  font-size: 50px;
+  font-weight: 700;
 }
 
 .NewsBlock {
