@@ -25,12 +25,13 @@
 .NewsBlock {
   display: flex;
   flex-direction: column;
-  gap: 7px;
+  gap: 10px;
 }
 
 .BlockHeading {
   color: white;
-  font-weight: bolder;
+  font-weight: 800;
+  font-size: 21px;
 }
 
 .BlockSubHeading {
