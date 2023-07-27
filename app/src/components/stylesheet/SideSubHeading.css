@@ -2,13 +2,18 @@
   display: flex;
   flex-direction: column;
   gap: 30px;
+  justify-content: space-evenly;
 
   width: 100%;
+  padding: 37px 28px 37px 28px;
 
   background-color: hsl(240, 100%, 5%); /* very dark blue */
+}
 
-  /* padding: top right bottom left; */
-  padding: 37px 28px 37px 28px;
+.LineBreak {
+  width: 100%;
+  /* border: solid white; */
+  border-bottom: 2px solid rgba(255,255,255,.25);
 }
 
 .Title {
@@ -18,13 +23,17 @@
 }
 
 .NewsBlock {
-
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
 }
 
 .BlockHeading {
   color: white;
+  font-weight: bolder;
 }
 
 .BlockSubHeading {
   color: white;
+  font-weight: lighter;
 }

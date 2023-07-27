@@ -10,6 +10,7 @@ const SideSubHeading = () => {
           Will hydrogen-fueled cars ever catch up to EVs?
         </div>
       </div>
+      <div className="LineBreak"></div>
       <div className="NewsBlock">
         <div className="BlockHeading">The Downsides of AI Artistry</div>
         <div className="BlockSubHeading">
@@ -17,6 +18,7 @@ const SideSubHeading = () => {
           AI image generation?
         </div>
       </div>
+      <div className="LineBreak"></div>
       <div className="NewsBlock">
         <div className="BlockHeading">Is VC Funding Drying Up?</div>
         <div className="BlockSubHeading">
