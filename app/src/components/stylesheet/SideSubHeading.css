@@ -1,0 +1,15 @@
+.SideSubHeading {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  height: 510px;
+  border: solid;
+}
+
+.Title {
+
+}
+
+.NewBlocK {
+
+}

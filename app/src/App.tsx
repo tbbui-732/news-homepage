@@ -4,6 +4,7 @@ import './App.css';
 
 import Navigation from "./components/Navigation";
 import MainHeading from "./components/MainHeading";
+import SideSubHeading from './components/SideSubHeading';
 
 /*
 Navigation:
@@ -40,8 +41,18 @@ BottomSubHeading
 function App() {
   return (
     <div className="App">
-      <Navigation />
-      <MainHeading />
+      <div className="Top"> 
+        <Navigation /> 
+      </div>
+
+      <div className="Middle"> 
+        <MainHeading /> 
+        <SideSubHeading />
+      </div>
+
+      <div className="Bottom">
+
+      </div>
     </div>
   );
 }
