@@ -32,9 +32,15 @@
   color: white;
   font-weight: 800;
   font-size: 21px;
+  transition-duration: 250ms;
 }
 
 .BlockSubHeading {
   color: white;
   font-weight: lighter;
+}
+
+/* active state */
+.NewsBlock:hover .BlockHeading {
+  color: hsl(35, 77%, 62%);
 }

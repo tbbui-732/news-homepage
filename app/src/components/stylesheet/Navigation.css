@@ -25,7 +25,14 @@
 .NavLink {
   font-family: 'Inter', sans-serif;
   font: 15px;
+  font-weight: 500;
 
   text-decoration: none;
   color: hsl(236, 13%, 42%); /* dark grayish blue */
+
+  transition-duration: 250ms;
+}
+
+.NavLink:hover {
+  color: hsl(5, 85%, 63%); /* soft red */
 }
