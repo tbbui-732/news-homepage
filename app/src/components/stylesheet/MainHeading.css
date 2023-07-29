@@ -72,4 +72,10 @@ button, input[type="submit"], input[type="reset"] {
 
   width: 220px;
   height: 60px;
+
+  transition-duration: 250ms;
+}
+
+.ReadMoreButton:hover {
+  background-color: hsl(240, 100%, 5%); /* very dark blue */
 }

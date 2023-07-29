@@ -69,6 +69,7 @@ Very dark blue:
   font-size: 20px;
   font-weight: bold;
   color: hsl(240, 100%, 5%);
+  transition-duration: 250ms;
 }
 
 .ArticleDescription {
@@ -77,4 +78,9 @@ Very dark blue:
   color: hsl(236, 13%, 42%);
   font-size: 18px;
   font-weight: 300;
+}
+
+/* active states */
+.Article:hover .ArticleTitle {
+  color: hsl(5, 85%, 63%); /* soft red */
 }
