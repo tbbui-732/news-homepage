@@ -11,6 +11,9 @@
   /* width: 69rem; */
   width: 72rem;
   gap: 40px;
+  
+  margin: auto;
+  margin-top: 50px;
 }
 
 .Top {
