@@ -30,7 +30,7 @@
   text-decoration: none;
   color: hsl(236, 13%, 42%); /* dark grayish blue */
 
-  transition-duration: 250ms;
+  transition: color 250ms;
 }
 
 .NavLink:hover {
