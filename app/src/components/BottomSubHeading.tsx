@@ -14,7 +14,7 @@ Props:
 
 const Article = (props: any) => {
   return (
-    <div className="Article">
+    <a href="#" className="Article">
       <div className="ArticleLeftSide">
         <img className="ArticleImage" src={props.img} alt="article image" />
       </div>
@@ -23,7 +23,7 @@ const Article = (props: any) => {
         <div className="ArticleTitle">{props.title}</div>
         <div className="ArticleDescription">{props.desc}</div>
       </div>
-    </div>
+    </a>
   );
 };
 

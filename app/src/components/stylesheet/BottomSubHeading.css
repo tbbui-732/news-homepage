@@ -39,6 +39,7 @@ Very dark blue:
   display: flex;
   flex-direction: row;
   gap: 20px;
+  text-decoration: none;
 }
 
 /* LEFT SIDE */
