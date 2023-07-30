@@ -8,12 +8,14 @@
   flex-direction: column;
   justify-content: space-between;
   align-content: center;
-  /* width: 72rem; */
-  /* height: auto; */
+  max-width: 72rem;
+  height: auto;
   gap: 40px;
   
-  /* margin: auto; */
-  margin: 50px 140px 0 140px;
+  margin: auto;
+  margin-top: 50px;
+  /* margin: 50px 170px 0 170px; */
+  /* padding: 50px 140px 0 140px; */
 }
 
 .Top {
