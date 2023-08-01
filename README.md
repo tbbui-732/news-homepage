@@ -4,13 +4,12 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Video](#video)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 
 ## Overview
 
@@ -21,7 +20,7 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Video
 
 ![](./screenshot.jpg)
 ![solution gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpmMnNudGdwMjVjemloOTd0bWV5ZmcyaDNidWQ4dGtka2lkMzRreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Esr7gz7yfMYTKsgHES/giphy.gif)
