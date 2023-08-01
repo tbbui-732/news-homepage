@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://tbbui-732.github.io/news-homepage/)
+- Live Site URL: [Live Site](https://tbbui-732.github.io/news-homepage/)
 
 ## My process
 Every layout was centered around flexboxes. 
