@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpmMnNudGdwMjVjemloOTd0bWV5ZmcyaDNidWQ4dGtka2lkMzRreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Esr7gz7yfMYTKsgHES/giphy.gif]
+![solution gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpmMnNudGdwMjVjemloOTd0bWV5ZmcyaDNidWQ4dGtka2lkMzRreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Esr7gz7yfMYTKsgHES/giphy.gif)
 
 ### Links
 
