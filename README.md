@@ -34,21 +34,21 @@ Users should be able to:
 Every layout was centered around flexboxes. 
 Here is the tree layout:
 
-App
-|
-|-> Top
-| |
-| |-> Navigation
-|
-|-> Middle
-| |
-| |-> Main Heading
-| |
-| |-> Side Sub Heading
-|
-|-> Bottom
-| |
-| |-> Bottom Sub Heading
+App\
+|\
+|-> Top\
+| |\
+| |-> Navigation\
+|\
+|-> Middle\
+| |\
+| |-> Main Heading\
+| |\
+| |-> Side Sub Heading\
+|\
+|-> Bottom\
+| |\
+| |-> Bottom Sub Heading\
 
 My initial thought for using this method was ease of spacing.
 However I have learned that there are significantly better
